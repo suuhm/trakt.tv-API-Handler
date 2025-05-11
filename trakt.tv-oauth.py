@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # ----------------------------------------------------------------------------
 # Trakt OAuth2.0 Authentication Script
 #
