@@ -108,7 +108,7 @@ Replace `'YOUR_CLIENT_ID'` and `'API_ACCESS_TOKEN'` with your actual **Client ID
 3. Run the tool:
 
 ```bash
-python trakt_api_explorer.py
+python trakt_api_handler.py
 ```
 
 ---
@@ -116,7 +116,9 @@ python trakt_api_explorer.py
 ## 🧩 Menu Overview
 
 ```
-🎬 Trakt.tv API Explorer
+🎬 Trakt.tv API Handler
+    -------------------
+
 1. Movies          → Submenu (Trending, Popular, Recommended, etc.)
 2. Shows           → Submenu (Trending, Played, Anticipated, etc.)
 3. Sync            → Submenu (Watched, History, Collection, etc.)
