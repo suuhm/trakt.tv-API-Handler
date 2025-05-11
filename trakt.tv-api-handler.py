@@ -1,3 +1,14 @@
+#!/usr/bin/env python3
+
+# ----------------------------------------------------------------------------
+# Trakt API Explorer Handler Script v0.1a
+# Exploring everthing in trakt.tv universe...
+#
+# Copyright (c) 2025 suuhm. All Rights Reserved.
+#
+# Licensed under the MIT License (https://opensource.org/licenses/MIT)
+# ----------------------------------------------------------------------------
+
 import requests
 from prettytable import PrettyTable
 
