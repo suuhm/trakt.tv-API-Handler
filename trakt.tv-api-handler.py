@@ -17,14 +17,13 @@ from prettytable import PrettyTable
 #CLIENT_SECRET = 'YOUR_CLIENT_SECRET'
 #API_ACCESS_TOKEN = 'YOUR_ACCESS_TOKEN'
 
-# === Trakt API Konfiguration ===
 BASE_URL = 'https://api.trakt.tv/'
-
 HEADERS = {
     "Authorization": "Bearer API_ACCESS_TOKEN",
     "trakt-api-version": "2",
     "trakt-api-key": "YOUR_CLIENT_SECRET"
 }
+
 
 def print_ascii_logo():
     logo = r"""
